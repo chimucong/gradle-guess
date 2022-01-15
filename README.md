@@ -9,6 +9,6 @@ python3 main.py
 
 Input
 ---
-- G: Green
-- Y: Yellow
-- X: Gray
+- g: Green
+- y: Yellow
+- x: Gray
